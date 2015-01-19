@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/choicefresh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://liamkirsh.me
+  * I am choicefresh (https://keybase.io/choicefresh) on keybase.
+  * I have a public key with fingerprint 376D 9A87 F595 BAD2 5916  B536 9F4E CA84 6C5E E541
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "376d9a87f595bad25916b5369f4eca846c5ee541",
+            "host": "keybase.io",
+            "key_id": "9f4eca846c5ee541",
+            "kid": "01017e7d7afdd7fc5cd2a2b4501f612b05d69c03922fd48980bd7320a1bd640745e10a",
+            "uid": "b7540ea9e9d8bd8b5e73e870553ef900",
+            "username": "choicefresh"
+        },
+        "service": {
+            "hostname": "liamkirsh.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1421708762,
+    "expire_in": 157680000,
+    "prev": "aaf6ac9b559fe7ae229f275fa744749b464ff7d8a386cfc768d14463238353f4",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2.0.22 (MingW32)
+
+owFtUmtoFUcU3qu3Pi4RjfFFrf5YH6i9Xvcxj90bf/TmRY2iP4zUBvV2dmcmu+Rm
+d93dm0airS1BjBAVNdQgpVWqEBBsNba2VVGCtjRECIW2hNBaWqm29o9WixW1s8H+
+62FgOOd855s553wHp02UMqkP1n/TVdp2q5AaumNJTZd67nfKlk93yPlOuZWNX9z1
+WlgYhK4Xy3lZx4iaxMAcmtAiVIOmiiyoI5MDZhMDIBsyBoEqZ2XHj5IKQWORiOVc
+X8SEU3SpiP4PvnU8oaiKihmmmHBKMbehTTWiWQAqKkeqZimQItNWdFPTOAWGaSgW
+xbqmENWiCCgYQKYqRNCVx+ksDIHCiMlMaljiQIZ1ZmAFQp1xU1ESYMRCj7QxgbYd
+37UZD1nkyLuyski0Cz+ZQtLMc1DJJW2tbhg5OeFm5SD0Y9/2SyLjxHGQTwrjHUGC
+fJNZxeccRcv1qJikKGhnYeT6npxXBdKO3YRUBZqKFQMjLSuzjsANWdFNEBAjQxGW
+PMPaBSUhHBHbtCA0OcOEaZrJNQw5wQBgYFoAAc4xNYhuIJvbopyqACBd0w0d6hzI
+SVfbPV/O6+KbpEVQRm6LR+JymGbyrkx3amdaSmUk/sKERA3FWbslYTlpmRtFZRau
+5EH4iufHJBYdRDk/YF7QEuS4y2PH8cOItREv57FYyKTOLBi4QcikplA3LpOaRCYN
+oL62INZeC+vrxdqlzNQZ/0lwtDT56aJnzj/l+WXnCVtv/opGl855o2vm0Ik/rz19
+b8rAqxXpxzeLK8/5ny7YMk8Z7Yg2d9gX1j44M2drU+qLvj0V757o75382vS5lyVy
+ZeQdtj1dOhV+PW/blysW/jT8eu/whglDbdfnegPrPp6emZZ21qw7/3j/t6vRb01H
+l6er50/a9yFqGl5S88mm+/cGN7Z2S7MXHLh4dVnFW5nvSfXD+moP9VUe7H9xpCtz
+75fg7MTTYIo3NnKoobG2/+7xqzN/WLL80du3rzQf+6t5rPvCzrGTPfCjI0M/Zw+f
+pKsm/V6FfqyrurtpcO/gS9+tvTG7s/LRZ+cre/4uDPwBbh0Pvup7+fNe+L7fuHjr
+lp5/AQ==
+=E22x
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/choicefresh
+
+==================================================================
