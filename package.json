@@ -1,0 +1,19 @@
+{
+  "name": "jquery.hipsterSlider",
+  "title": "jquery.hipsterSlider",
+  "version": "0.10.0",
+  "description": "An other jQuery Slideshow Plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schorfES/jquery.hipsterSlider.git"
+  },
+  "author": "Norman Rusch (nrmnrsh / schorfES)",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-lintspaces": "~0.2.301",
+    "grunt-jscs-checker": "~0.2.5"
+  }
+}
