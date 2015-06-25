@@ -109,7 +109,7 @@
 
 			touch: false,								/* enables / disables touchfeature for mobile devices */
 			touchTolerance: 1,//20,							/* defines the tolerance in pixels to move before slide to a next position */
-			touchDirectionTolerance: 45,//45,				/* defines the tolerance in pixels until the regular touchsliding terminates when the other axis is used */
+			touchDirectionTolerance: 1,//45,				/* defines the tolerance in pixels until the regular touchsliding terminates when the other axis is used */
 
 			useHardware: true							/* defines if the slider should detect css3-hardware-acceleration-features */
 		},
